@@ -4,7 +4,7 @@ services:
 
   loragtwpktfwd:
     restart: always
-    image: pastagringo/lorapacketforwarder_sx1302_eu
+    image: pastagringo/lorapacketforwarder_sx1302_eu_
     privileged: true
 
   helium-miner:
