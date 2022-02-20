@@ -10,7 +10,7 @@ You will need a [balenaCloud free account](https://dashboard.balena-cloud.com/) 
 
 ## Deploy the code
 
-[![](https://www.balena.io/deploy.png)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/PastaGringo/balenaos-helium-gtw-pi4-rak2287-eu868)
+[![](https://www.balena.io/deploy.png)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/herrtakacs/balenaos-helium-gtw-pi4-rak2287-eu868)
 
 Login to your BalenaCloud account and click this button to deploy! 
 
