@@ -5,7 +5,7 @@ assets:
   repository:
     type: "blob.asset"
     data:
-      url: "https://github.com/PastaGringo/balenaos-helium-gtw-pi4-rak2287-eu868"
+      url: "https://github.com/herrtakacs/balenaos-helium-gtw-pi4-rak2287-eu868"
   logo:
     type: "blob.asset"
     data:
